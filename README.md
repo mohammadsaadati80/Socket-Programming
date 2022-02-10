@@ -6,10 +6,10 @@ Clients ask their question using UDP sockets and communicate with the server wit
 
 How to run the server:
 ```
-./server 8888
+./server <#server_port>
 ```
 
 How to connect a client:
 ```
-./client 8888
+./client <#server_port>
 ```
