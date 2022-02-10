@@ -4,6 +4,9 @@ Computer Assignment #1, Operating Systems Course, University of Tehran
 This project is a client-server model implementation of a question and answer system for different disciplines (similar to stackoverflow) using socket programming and C system calls.
 Clients ask their question using UDP sockets and communicate with the server with a TCP socket.
 
+## How to run ?
+In project repository run `make` command to make project by g++.
+
 How to run the server:
 ```
 ./server <#server_port>
